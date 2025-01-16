@@ -28,7 +28,7 @@ Este projeto explora o mundo das IAs Generativas com o objetivo de criar conteú
 - **Vídeos e Áudios**: Produção de um conteúdo multimídia com qualidade profissional, explorando a sinergia entre imagem, som e texto.
 
 ## 💭 Reflexão (Opcional)
-Criar algo que pareça completamente "natural" utilizando IAs foi desafiador, mas extremamente recompensador. Este projeto reforçou a importância de combinar criatividade humana com a eficiência tecnológica, mostrando como essas ferramentas podem elevar o potencial criativo. A maior lição foi perceber que, mesmo com tecnologias avançadas, o toque humano ainda é essencial para dar autenticidade ao conteúdo.
+Criamos algo que pareça completamente "natural" utilizando IAs foi desafiador, mas extremamente recompensador. Este projeto reforçou a importância de combinar criatividade humana com a eficiência tecnológica, mostrando como essas ferramentas podem elevar o potencial criativo. A maior lição foi perceber que, mesmo com tecnologias avançadas, o toque humano ainda é essencial para dar autenticidade ao conteúdo.
 
 ---
 
